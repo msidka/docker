@@ -6,10 +6,10 @@
    - Use Case: High-performance computing, gaming servers, financial trading systems.
 
 <p align="right">
- ![image](https://github.com/user-attachments/assets/d2d7399d-2e79-485d-a8a4-4b879a6480e2)
 
 <img src="https://github.com/saifulislam88/docker/assets/68442870/401f1965-77cb-450a-b558-5ad80b1428ea" alt="Technological Transformation" width="800"/>
 </p>
+![image](https://github.com/user-attachments/assets/67da7649-8e99-4d0f-9418-862c66f7aeda)
 
 
 
