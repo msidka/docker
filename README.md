@@ -5,16 +5,8 @@
    - Control: Full control over the hardware and software stack.
    - Use Case: High-performance computing, gaming servers, financial trading systems.
 
-<p align="right">
-<img src="https://github.com/saifulislam88/docker/assets/68442870/401f1965-77cb-450a-b558-5ad80b1428ea" alt="Technological Transformation" width="800"/>
-</p>
-
-
 
 <img src="https://github.com/user-attachments/assets/0e0656c0-5e68-4a18-8b3e-6a00815ce0c0" alt="Technological Transformation" width="800"/>
-
-
-
 
 
  - #### 🔥**Key Reasons for Transition:**
@@ -35,9 +27,10 @@ This software technology of virtualization system is known as a virtual machine 
 - **Use Case:** Server consolidation, development and testing environments.
 
 
-<p align="right">
-<img src="https://github.com/saifulislam88/docker/assets/68442870/3c392818-aa43-4313-8893-72d83f1a5019" alt="Technological Transformation" width="800"/>
-</p>
+<img src="https://github.com/user-attachments/assets/9d570ca5-1d54-410e-a388-91507c479233" alt="Technological Transformation" width="800"/>
+
+
+
 
 There are **two** main types of virtualization technology — 
 
