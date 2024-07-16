@@ -73,9 +73,11 @@ Let's revisit the different ways of deploying applications we talked about—loc
       - **Container is Runnable instance of the image, basically it is an isolated process.**
       - **Container is package of software that includes all dependencies: code, runtime, configuration, and system libraries so that it can run on any host system.**
 
-<p align="right">
-  <img src="https://github.com/saifulislam88/docker/assets/68442870/d3fb591d-3c6b-43ed-aa93-464187b108d2" alt="Technological Transformation" width="600"/>
-</p>
+
+<img src="https://github.com/user-attachments/assets/d91c7e3b-b50b-4612-96d7-893f0ae3ef4d" alt="Technological Transformation" width="600"/>
+
+
+
 
 ###### 📌**Different Container or Container runtimes provider**
 
@@ -93,7 +95,9 @@ Docker is a **daemon-based** software platform that uses **OS-level virtualizati
 
 So Docker is an open-source lightweight containerization technology. It allows you to automate the deployment of applications in lightweight and portable containers
 
-<img src="https://github.com/saifulislam88/docker/assets/68442870/5b11673c-469a-4b64-8030-a1fd626c088e" alt="Technological Transformation" width="600"/>
+
+<img src="https://github.com/user-attachments/assets/013d6a23-7c08-43de-affe-ccad76fd5adc" alt="Technological Transformation" width="600"/>
+
 
 #### 🔥**Docker Features**
 - **Building**
@@ -117,15 +121,23 @@ So Docker is an open-source lightweight containerization technology. It allows y
 - Docker enables more efficient use of system resources.
 - Simplifies the application development and deployment process.
 - **Collaboration’ with Docker**
-<img src="https://github.com/saifulislam88/docker/assets/68442870/0851f2cb-62a7-44ac-b50c-4995e6044952" alt="Technological Transformation" width="600"/>
+
+<img src="https://github.com/user-attachments/assets/67334d6a-99b0-49ec-a643-dda317c298e1" alt="Technological Transformation" width="600"/>
+
 
 - **Also, the Agile Development without Docker culture results in many issues as shown in the below picture.**
-<img src="https://github.com/saifulislam88/docker/assets/68442870/3dbc68a7-aca6-414d-af31-f828cd22ddfd" alt="Technological Transformation" width="600"/>
+
+<img src="https://github.com/user-attachments/assets/ee094d19-07ae-47ce-9a6b-e23cd5da8272" alt="Technological Transformation" width="600"/>
+
 
 - **To overcome all these situations the need for containerization with Docker arises.**
-<img src="https://github.com/saifulislam88/docker/assets/68442870/d41b0acb-99c5-4b6b-aa21-ea7df2edaa30" alt="Technological Transformation" width="600"/>
+
+<img src="https://github.com/user-attachments/assets/a4a7fd8f-b218-4839-b4f3-2e7fb16f04b4" alt="Technological Transformation" width="600"/>
+
+
 
 #### 🔥Docker Architecture and Components
 
+<img src="https://github.com/user-attachments/assets/09636ab5-d30a-4716-9ac9-f6bc55e70b1e" alt="Technological Transformation" width="600"/>
 
-<img src="https://github.com/saifulislam88/docker/assets/68442870/4810e275-4208-49b9-aaf2-631146eb6cbb" alt="Technological Transformation" width="600"/>
+
